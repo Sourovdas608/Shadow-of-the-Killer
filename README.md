@@ -69,11 +69,11 @@ Make sure you have the following installed:
 
 <img src="https://github.com/user-attachments/assets/d97758d8-1e7b-4f6e-b881-c55c16fbd138" width="300" height="200">
 
-<img src="https://github.com/user-attachments/assets/e43e935a-07b1-43ee-a389-d093a46eab59" width="300" height="200">
+
 
 ## Youtube Link
-[CSE 1200 Project: Shadow of the Killer](https://www.youtube.com/)
+[CSE 1200 Project: Shadow of the Killer](https://youtu.be/m4IqCBI6qxw)
 
 ## Project Report
-[Project Report: Shadow of the Killer](https://drive.google.com/drive/u/1/my-drive)
-<img width="1097" height="727" alt="image" src="https://github.com/user-attachments/assets/d8f936d2-c727-41a9-b297-6d049adcb1a3" /># Shadow-of-the-Killer
+[Project Report: Shadow of the Killer](https://drive.google.com/file/d/1fRkXu6SWv_hE94n3Ll6n8q3Mnd89Zf4k/view?usp=drive_link)
+
