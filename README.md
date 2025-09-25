@@ -67,7 +67,8 @@ Make sure you have the following installed:
 
 <img src="https://github.com/user-attachments/assets/4445d59a-98e4-4081-a10f-fe619861a90d" width="300" height="200">
 
-<img src="https://github.com/user-attachments/assets/d97758d8-1e7b-4f6e-b881-c55c16fbd138" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/4757d797-4de0-4de4-a752-6390aefce386" width="300" height="200">
+
 
 
 
